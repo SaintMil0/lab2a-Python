@@ -1,17 +1,16 @@
-a. `print("All the world's a stage,")
+a.  print("All the world's a stage,")
     print("And all the men and women merely players:")
     print("They have their exits and their entrances;")
     print("And one man in his time plays many parts,")
     print("His acts being seven ages.")
     
 
-  `
+  
 
 b.
-  `
     paragraph = "All the world's a stage, And all the men and women merely players: They have their exits and their entrances; And one man in his time plays many parts, His acts being seven ages."
     print(paragraph)
-  `  
+
 
 c. Output of print("127","0","0","1", sep=".") is 127.0.0.1
    localhost server normally
